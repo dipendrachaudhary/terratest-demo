@@ -1,1 +1,1 @@
-Print Hello World in terratest
+Terraform apply and destroy using terratest
